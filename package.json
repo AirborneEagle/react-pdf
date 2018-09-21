@@ -1,5 +1,5 @@
 {
-  "name": "@react-pdf/renderer",
+  "name": "react-pdf-windows",
   "version": "1.0.0-alpha.17",
   "license": "MIT",
   "author": "Diego Muracciole <diegomuracciole@gmail.com>",
@@ -52,7 +52,8 @@
     "page-wrapping": "^1.0.2",
     "react": "^16.4.1",
     "react-reconciler": "^0.12.0",
-    "yoga-layout": "1.9.3"
+    "yarn": "^1.9.4",
+    "yoga-layout-windows": "1.9.3"
   },
   "devDependencies": {
     "babel-cli": "^6.22.2",

@@ -1,4 +1,4 @@
-import Yoga from 'yoga-layout';
+import Yoga from 'yoga-layout-windows';
 import warning from 'fbjs/lib/warning';
 import Base from './Base';
 import { fetchImage } from '../utils/image';

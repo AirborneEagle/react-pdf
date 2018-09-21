@@ -1,4 +1,4 @@
-import Yoga from 'yoga-layout';
+import Yoga from 'yoga-layout-windows';
 import { StyleSheet } from '../src';
 
 describe('StyleSheet', () => {
