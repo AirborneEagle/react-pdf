@@ -1,6 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/5600341/27505816-c8bc37aa-587f-11e7-9a86-08a2d081a8b9.png" height="400px"></p>
 
 React renderer for creating PDF files on the browser, mobile and server
+ <br>-- Modified for development use on windows machines.
 
 [![npm](https://img.shields.io/npm/v/@react-pdf/renderer.svg)](https://www.npmjs.com/package/@react-pdf/renderer)
 [![Travis](https://img.shields.io/travis/diegomura/react-pdf.svg)](https://travis-ci.org/diegomura/react-pdf)
@@ -10,7 +11,7 @@ React renderer for creating PDF files on the browser, mobile and server
 
 ## How to install
 ```sh
-yarn add @react-pdf/renderer
+npm install --save react-pdf-windows
 ```
 
 ## How it works
